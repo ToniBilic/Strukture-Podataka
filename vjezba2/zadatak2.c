@@ -1,10 +1,10 @@
 /*
-2. Definirati strukturu osoba (ime, prezime, godina roðenja) i napisati program koji:
-	A. dinamièki dodaje novi element na poèetak liste,
+2. Definirati strukturu osoba (ime, prezime, godina roÃ°enja) i napisati program koji:
+	A. dinamiÃ¨ki dodaje novi element na poÃ¨etak liste,
 	B. ispisuje listu,
-	C. dinamièki dodaje novi element na kraj liste,
+	C. dinamiÃ¨ki dodaje novi element na kraj liste,
 	D. pronalazi element u listi (po prezimenu),
-	E. briše odreðeni element iz liste,
+	E. briÅ¡e odreÃ°eni element iz liste,
 U zadatku se ne smiju koristiti globalne varijable.
 */
 
@@ -135,6 +135,7 @@ int delete(char name[MAX_STRING], char surname[MAX_STRING], newPerson nP) {
 		if (!strcmp(nP->name, name) && !strcmp(nP->surname, surname)) {
 			del->next = nP->next;
 			nP->next = NULL;
+			free(nP);
 			return 0;
 		}
 	}
