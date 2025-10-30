@@ -1,0 +1,3 @@
+﻿  vjezba3.c
+C:\Users\Toni\Desktop\Strukture\vjezba3\vjezba3.c(240,14): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+  vjezba3.vcxproj -> C:\Users\Toni\Desktop\Strukture\vjezba3\Debug\vjezba3.exe
