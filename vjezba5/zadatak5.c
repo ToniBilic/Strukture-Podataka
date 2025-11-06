@@ -1,5 +1,5 @@
 /*
-5. Napisati program koji iz datoteke èita postfiks izraz i zatim korištenjem stoga raèuna
+5. Napisati program koji iz datoteke Ã¨ita postfiks izraz i zatim koriÅ¡tenjem stoga raÃ¨una
 rezultat. Stog je potrebno realizirati preko vezane liste.
 */
 
@@ -30,6 +30,7 @@ int printSum(newStack nS);
 int main() {
 
 	newStack head = (newStack)malloc(sizeof(stack));
+	head->value = NULL;
 	head->next = NULL;
 
 	readFile(head);
