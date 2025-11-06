@@ -53,7 +53,7 @@ int readFile(newStack head) {
 		return FILE_NOT_OPENED;
 	}
 
-	fscanf(fp, "%s", buffer);
+	fgets(buffer, MAX_LINE, fp);
 
 	while (buffer[i] != " ") {
 		if (buffer[i] >= 0 && buffer[i] < 10) {
