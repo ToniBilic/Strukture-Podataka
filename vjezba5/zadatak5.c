@@ -22,7 +22,7 @@ struct stack {
 	newStack next;
 };
 
-int addToStack(int value, newStack nS);
+int addToStack(int value, newStack nS); //funkcija za dodavanje elemenata na stack
 int readFile(newStack head);
 int sum(newStack head);
 int printSum(newStack nS);
