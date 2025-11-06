@@ -1,0 +1,6 @@
+﻿  zadatak5.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba5\zadatak5.c(57,25): warning C4047: '!=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba5\zadatak5.c(63,27): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba5\zadatak5.c(108,26): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba5\zadatak5.c(109,32): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  vjezba5.vcxproj -> C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba5\Debug\vjezba5.exe
