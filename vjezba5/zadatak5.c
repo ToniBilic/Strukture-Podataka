@@ -6,8 +6,6 @@ rezultat. Stog je potrebno realizirati preko vezane liste.
 #define _CRT_SECURE_NO_WARNINGS
 #define MEMORY_ALLOCATION_ERROR (-1)
 #define FILE_NOT_OPENED (-2)
-#define SUCCESS (0)
-#define FAILIURE (1)
 #define	MAX_LINE (1024)
 #define MAX_STRING (100)
 #include <stdio.h>
@@ -37,7 +35,7 @@ int main() {
 
 	printSum(head->next);
 
-	return SUCCESS;
+	return EXIT_SUCCESS;
 }
 
 
@@ -70,7 +68,7 @@ int readFile(newStack head) {
 		i++;
 	}
 
-	return SUCCESS;
+	return EXIT_SUCCESS;
 }
 
 int addToStack(int value, newStack nS) {
@@ -88,7 +86,7 @@ int addToStack(int value, newStack nS) {
 	nE->next = nS->next;
 	nS->next = nE;
 
-	return SUCCESS;
+	return EXIT_SUCCESS;
 }
 
 
@@ -120,7 +118,7 @@ int sum(newStack head) {
 
 	sum->value = f + s;
 
-	return SUCCESS;
+	return EXIT_SUCCESS;
 }
 
 int printSum(newStack nS) {
@@ -135,5 +133,5 @@ int printSum(newStack nS) {
 
 	fprintf(fp, "%d", nS->value);
 
-	return SUCCESS;
+	return EXIT_SUCCESS;
 }
