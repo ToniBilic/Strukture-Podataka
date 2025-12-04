@@ -1,0 +1,12 @@
+#ifndef FILE_OPEN_ERROR
+#define FILE_OPEN_ERROR (-1)
+#endif 
+
+#ifndef MEMORY_ALLOCATION_ERROR
+#define MEMORY_ALLOCATION_ERROR (-2)
+#endif
+
+#ifndef _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
+#endif
+

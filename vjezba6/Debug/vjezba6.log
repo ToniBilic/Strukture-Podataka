@@ -1,0 +1,14 @@
+﻿  item.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\item.c(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\errors.h(10): message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\item.c(10,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  receipt.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\errors.h(10): message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(10,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(18,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(26,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(35,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(37,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba6\receipt.c(43,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
