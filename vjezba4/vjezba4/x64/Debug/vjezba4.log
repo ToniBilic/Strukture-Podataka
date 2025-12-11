@@ -1,0 +1,56 @@
+﻿  vjezba4.c
+C:\Users\Lenovo\Desktop\tonibilik\Strukture-Podataka\vjezba4\vjezba4\vjezba4.c(1,1): error C2059: syntax error: '?'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(399,61): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(399,61): error C2061: syntax error: identifier '_StackCookie'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(399,61): error C2059: syntax error: ';'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(399,73): error C2059: syntax error: ')'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(400,77): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(400,77): error C2061: syntax error: identifier '_StackCookie'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(400,77): error C2059: syntax error: ';'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(400,89): error C2059: syntax error: ')'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(404,18): error C2061: syntax error: identifier '__security_cookie'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h(404,18): error C2059: syntax error: ';'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(367,20): error C2081: 'uintptr_t': name in formal parameter list illegal
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(380,26): error C2146: syntax error: missing ')' before identifier '_Reserved'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(380,16): error C2081: 'uintptr_t': name in formal parameter list illegal
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(380,26): error C2061: syntax error: identifier '_Reserved'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(380,26): error C2059: syntax error: ';'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(380,35): error C2059: syntax error: ')'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stddef.h(57,27): error C2143: syntax error: missing '{' before '__cdecl'
+  (compiling source file 'vjezba4.c')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdlib.h(167,9): error C2081: 'uintptr_t': name in formal parameter list illegal
+  (compiling source file 'vjezba4.c')
+  

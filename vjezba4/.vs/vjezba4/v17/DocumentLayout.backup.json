@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\tonibilik\\Strukture-Podataka\\vjezba4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0F6E16-9BA2-4D4E-BC8E-38E76A5B9068}|vjezba4\\vjezba4.vcxproj|C:\\Users\\Lenovo\\Desktop\\tonibilik\\Strukture-Podataka\\vjezba4\\vjezba4\\vjezba4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A0F6E16-9BA2-4D4E-BC8E-38E76A5B9068}|vjezba4\\vjezba4.vcxproj|solutionrelative:vjezba4\\vjezba4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vjezba4.c",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\tonibilik\\Strukture-Podataka\\vjezba4\\vjezba4\\vjezba4.c",
+              "RelativeDocumentMoniker": "vjezba4\\vjezba4.c",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\tonibilik\\Strukture-Podataka\\vjezba4\\vjezba4\\vjezba4.c*",
+              "RelativeToolTip": "vjezba4\\vjezba4.c*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T13:26:18.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
