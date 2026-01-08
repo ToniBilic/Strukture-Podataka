@@ -1,0 +1,6 @@
+﻿  main.c
+  print.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba9\print.c(10,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  replace.c
+  tree.c
+  Generating Code...
