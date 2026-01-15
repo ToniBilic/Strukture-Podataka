@@ -1,0 +1,27 @@
+﻿  func.c
+C:\Users\Toni\source\repos\vjezba11\func.c(34,27): warning C4013: 'ispisi_gradove' undefined; assuming extern returning int
+C:\Users\Toni\source\repos\vjezba11\func.c(47,19): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Toni\source\repos\vjezba11\func.c(48,24): warning C4047: 'return': 'int' differs in levels of indirection from 'list *'
+C:\Users\Toni\source\repos\vjezba11\func.c(52,16): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+  main.c
+C:\Users\Toni\source\repos\vjezba11\main.c(20,23): warning C4133: 'function': incompatible types - from 'list *' to 'tree *'
+C:\Users\Toni\source\repos\vjezba11\main.c(20,19): error C2198: 'insertTree': too few arguments for call
+C:\Users\Toni\source\repos\vjezba11\main.c(24,22): warning C4047: 'function': 'tree *' differs in levels of indirection from 'list *[11]'
+C:\Users\Toni\source\repos\vjezba11\main.c(24,15): warning C4024: 'printTree': different types for formal and actual parameter 1
+C:\Users\Toni\source\repos\vjezba11\main.c(8,1): error C2075: 'hashTab': initialization requires a brace-enclosed initializer list
+C:\Users\Toni\source\repos\vjezba11\main.c(10,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\source\repos\vjezba11\main.c(17,12): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\source\repos\vjezba11\main.c(19,1): warning C4047: 'initializing': 'list *' differs in levels of indirection from 'int'
+C:\Users\Toni\source\repos\vjezba11\main.c(28,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\source\repos\vjezba11\main.c(29,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\source\repos\vjezba11\main.c(31,1): warning C4047: 'initializing': 'list *' differs in levels of indirection from 'int'
+  struct.c
+C:\Users\Toni\source\repos\vjezba11\struct.c(8,15): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Toni\source\repos\vjezba11\struct.c(11,18): warning C4047: 'return': 'int' differs in levels of indirection from 'tree *'
+C:\Users\Toni\source\repos\vjezba11\struct.c(14,69): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Toni\source\repos\vjezba11\struct.c(15,55): warning C4047: '=': 'tree *' differs in levels of indirection from 'int'
+C:\Users\Toni\source\repos\vjezba11\struct.c(18,33): warning C4013: 'dodaj_grad' undefined; assuming extern returning int
+C:\Users\Toni\source\repos\vjezba11\struct.c(18,57): warning C4047: '=': 'tree *' differs in levels of indirection from 'int'
+C:\Users\Toni\source\repos\vjezba11\struct.c(21,16): warning C4047: 'return': 'int' differs in levels of indirection from 'tree *'
+C:\Users\Toni\source\repos\vjezba11\struct.c(25,17): warning C4013: 'hash' undefined; assuming extern returning int
+  Generating Code...

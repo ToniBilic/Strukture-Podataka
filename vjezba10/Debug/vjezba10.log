@@ -1,0 +1,31 @@
+﻿  func.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4030: first formal parameter list longer than the second list
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 1 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 2 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\func.c(16,26): warning C4013: 'ispisi_gradove_stablo' undefined; assuming extern returning int
+  list.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4030: first formal parameter list longer than the second list
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 1 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 2 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.c(15,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4030: first formal parameter list longer than the second list
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 1 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 2 different from declaration
+  readFile.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4030: first formal parameter list longer than the second list
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 1 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\list.h(12,44): warning C4028: formal parameter 2 different from declaration
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(25,21): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'int'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(26,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(26,17): warning C4024: 'insert': different types for formal and actual parameter 2
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(26,29): warning C4020: 'insert': too many actual parameters
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(16,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(18,10): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(23,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\readFile.c(25,10): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tree.c
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\tree.c(19,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\func.c(19): warning C4716: 'printTree': must return a value
+C:\Users\Toni\Desktop\Strukture-Podataka\Strukture-Podataka\vjezba10\func.c(11): warning C4716: 'printList': must return a value
